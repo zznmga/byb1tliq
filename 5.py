@@ -10,7 +10,8 @@ import os
 import json
 
 
-TOKEN = "8978150832:AAEQld_K3BUXGls4TJ13oTFzgzatwoKI3Yo"
+TOKEN = "8978150832:AAEaBkBA5npt8-zr4RrFxRjpNEkT-dW4rUU"
+
 CHAT_ID = "73455428"
 API = f"https://api.telegram.org/bot{TOKEN}"
 offset = 0
